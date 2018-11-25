@@ -1,0 +1,97 @@
+@media screen and (max-width:800px){
+    .header-menu{
+        display:none;
+    }
+    .mobile-header{
+        display:block;
+    }
+    .mobile-menu{
+        display:block;
+    }
+    .banner-text{
+        padding:1em 0 2em;
+        text-align:center;
+    }
+    .banner-text h2{
+        font-size:1em;
+        line-height:0.5em;
+        padding:0.5em 0 0.5em;
+    }
+    .banner-text h2 span{
+        font-weight:700;
+        font-size:1em;
+        padding:0 0 1em;
+    }
+    .banner-text p{
+        width:100%;
+    }
+    .slider{
+        height:300px;
+        margin-top:30px;
+        margin-bottom:0px;
+    }
+    .about{
+        margin-top:0px;
+        margin-bottom:60px;
+    }
+    .mission{
+        margin-bottom:0px;
+    }
+    .vision{
+        margin-top:50px;
+        margin-bottom:50px;
+    }
+    .education-ins{
+        margin-top:10%;
+        margin-bottom:10%;
+    }
+    .interested img{
+        max-width:50px;
+        max-height: 50px;
+    }
+    .interested p{
+        font-size: 0.5em;
+    }
+    .contact-left{
+        margin-top:10px;
+        margin-bottom:50px;
+    }
+    .contact-address{
+        margin-top:0px;
+        margin-bottom:0px;
+    }
+    .contact-pm{
+        margin-top:30px;
+        margin-bottom:0px;
+    }
+    [class*="col-"]{
+        width:100%;
+    }
+    .mobile{
+        width:90%;
+        margin-left:5%;
+    }
+    .projects a{
+        height:150px;
+    }
+    .footer{
+        width:100%;
+        margin:auto;
+    }
+    .footer a{
+        width:20%;
+        float: left;
+    }
+    .footer a img{
+        display:block;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .gallery-slider h2{
+        font-size: 1em;
+    }
+    .gallery-image img{
+        width: 100%;
+        height: 200px;
+    }
+}

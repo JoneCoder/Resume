@@ -1,0 +1,71 @@
+h1,h2,h3,h4,h5,h6{
+    font-family:hFont;
+}
+@font-face {
+    font-family:Great_Vibes;
+    src: url("../fonts/Great_Vibes/GreatVibes-Regular.ttf");
+}
+@font-face{
+    font-family:PT-serif;
+    src: url("../fonts/PT_Serif/PT_Serif-Web-Regular.ttf");
+}
+@font-face{
+   font-family:hFont;
+   src:url("../fonts/Headland-One/HeadlandOne-Regular.ttf") 
+}
+.about p{
+    font-family:pFont;
+    font-size:1em;
+}
+.early-life{
+    font-family:pFont;
+}
+@font-face{
+    font-family:pFont;
+    src:url("../fonts/pinyon-font/PinyonScript-Regular.ttf");
+}
+.contact-address p{
+    font-family:PT-serif;
+    font-size:1em;
+}
+.contact-pm p{
+    font-family:PT-serif;
+    font-size:1em;
+}
+@font-face{
+    font-family:pbliFont;
+    src:url("../fonts/Playfair-Display/PlayfairDisplay-BlackItalic.ttf");
+}
+@font-face{
+    font-family:pbiFont;
+    src:url("../fonts/Playfair-Display/PlayfairDisplay-BoldItalic.ttf");
+}
+@font-face{
+    font-family:prFont;
+    src:url("../fonts/Playfair-Display/PlayfairDisplay-Regular.ttf");
+}
+@font-face{
+    font-family:pblFont;
+    src:url("../fonts/Playfair-Display/PlayfairDisplay-Black.ttf");
+}
+@font-face{
+    font-family:pbFont;
+    src:url("../fonts/Playfair-Display/PlayfairDisplay-Bold.ttf");
+}
+@font-face{
+    font-family:piFont;
+    src:url("../fonts/Playfair-Display/PlayfairDisplay-Italic.ttf");
+}
+@font-face{
+    font-family:loraFont;
+    src:ur("../fonts/Lora/Lora-Bold.ttf");
+}
+.dream p{
+    font-family:piFont;
+}
+.mission-vision-p{
+    font-family:prFont;
+}
+.about-me p{
+    font-family:prFont;
+}
